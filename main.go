@@ -5,7 +5,7 @@ import (
   "bufio"
   "log"
   "sync"
-  "./sorter"
+  "countwords/sorter"
   "fmt"
 )
 
