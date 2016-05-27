@@ -5,10 +5,10 @@ tribute to the speed of Go.
 
 ## Usage
 
-Run the executable passing in the desired files.
+Download the executable and add it to your path, run the executable passing in the desired files.
 
 ```
-$ ./bin/countwords file1.txt file2.txt file3.txt
+$ countwords file1.txt file2.txt file3.txt
 ```
 
 ### Running on [Peter Norvig's big.txt](http://norvig.com/big.txt):
