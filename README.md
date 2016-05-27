@@ -1,13 +1,14 @@
 # Count Words
 
-Count words in a file, reporting the top 3 most frequent.
+Count words in a file, reporting the top 3 most frequent. This was done as a
+tribute to the speed of Go.
 
 ## Usage
 
 Run the executable passing in the desired files.
 
 ```
-$ countwords file1.txt file2.txt file3.txt
+$ ./bin/countwords file1.txt file2.txt file3.txt
 ```
 
 ### Running on [Peter Norvig's big.txt](http://norvig.com/big.txt):
